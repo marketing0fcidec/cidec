@@ -1,0 +1,4 @@
+# Reemplazar __DOMINIO__ por el dominio definitivo antes de publicar
+User-agent: *
+Allow: /
+Sitemap: https://__DOMINIO__/sitemap.xml
